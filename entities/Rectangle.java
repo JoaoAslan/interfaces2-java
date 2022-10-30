@@ -2,7 +2,7 @@ package aula2.entities;
 
 import aula2.enums.Color;
 
-public class Rectangle extends Shape {
+public class Rectangle extends AbsctractShape {
 
     private Double width;
     private Double height;

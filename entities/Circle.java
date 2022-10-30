@@ -2,7 +2,7 @@ package aula2.entities;
 
 import aula2.enums.Color;
 
-public class Circle extends Shape {
+public class Circle extends AbsctractShape {
 
     private Double radius;
 
